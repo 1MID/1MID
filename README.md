@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 <img align="center" alt="GIF" src="https://github.com/manojuppala/manojuppala/blob/master/assets/code.gif?raw=true" width="750" height="520" /> 
 
 ## Introduction
+ 
+I was born on August 29st, 1998.🎂
 
 Graduated from [@NYUST](https://www.yuntech.edu.tw/).
 
