@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align=center>
+ 
+<img align="center" alt="GIF" src="https://github.com/manojuppala/manojuppala/blob/master/assets/code.gif?raw=true" width="750" height="520" /> 
 
 ## Introduction
 
@@ -73,4 +75,10 @@ Major in CSIE. :man_technologist:
      </tr> 
    </tbody>
  </table>
+ 
+
+
 </div> 
+
+
+
