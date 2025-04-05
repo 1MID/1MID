@@ -125,7 +125,7 @@ Major in CSIE. :man_technologist:
 ### **2. 全台公車動態時刻查詢應用服務**
 **描述：** F2E參賽作品 (入圍獎)
 
-**連結：** [查看詳細介紹](./side-projects/BusApplication/)
+**連結：** [查看詳細介紹](./side-projects/BusApplication/BusApplication.md)
 
 
 ### **3. 股市相關**
