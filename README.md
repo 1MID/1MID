@@ -149,3 +149,12 @@ Major in CSIE. :man_technologist:
 **描述：** Google Sheet 預約訂單日期，自動排程訂票
 
 **連結：** [查看詳細介紹](./side-projects/Booking/README.md)
+
+<div align=center>
+
+# **Leet Code**
+
+![image](https://github.com/user-attachments/assets/3763be1c-3ce0-4f29-947a-ae4773321df1)
+
+</div>
+
