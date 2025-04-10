@@ -150,6 +150,8 @@ Major in CSIE. :man_technologist:
 
 **連結：** [查看詳細介紹](./side-projects/Booking/README.md)
 
+---
+
 <div align=center>
 
 # **Leet Code**
